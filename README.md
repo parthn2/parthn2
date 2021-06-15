@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parthn2
 - 👀 I’m interested in competetive coding
-- 🌱 I’m currently learning algorithms and web development
+- 🌱 I’m currently learning algorithms and web development and going to learn android app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
